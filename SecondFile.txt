@@ -1,3 +1,0 @@
-Hi Pavan !!!
-This is your second file in GIT-Hub !!!
-And first file from GIT Command line !!!
