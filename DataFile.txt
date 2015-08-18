@@ -1,5 +1,7 @@
 GitHub
 
+Added this line from window 1
+
 Development of the GitHub platform began on October 1, 2007.
 
 The site was launched in April 2008 by Tom Preston-Werner, Chris Wanstrath, and PJ Hyett.
